@@ -1,13 +1,12 @@
 import React from "react";
+import styles from './header.module.css'
 
 class Header extends React.Component {
   render() {
     return (
-      <div>
-        <h1>Cuahuctemoc L. Osorio</h1>
-        <h3>linkedin.com/in/CuahuctemocLO</h3>
-        <h3>(602)540-7197</h3>
-        <h3>cclulu11@gmail.com</h3>
+      <div className={styles.content}>
+        <h3 className={styles.headerThree}>Cuahuctemoc L. Osorio</h3>
+        <h4 className={styles.headerFour}>linkedin.com/in/CuahuctemocLO</h4>
       </div>
     )
   }

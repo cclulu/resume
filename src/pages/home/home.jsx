@@ -6,7 +6,7 @@ class Home extends React.Component {
   render() {
     return (
       <div>
-        <p>FullStack developer, specializing ing Java and Go.
+        <p>FullStack developer, specializing in Java and Go.
       I am passionate about automation and building or improving systems and infrastructure
       using best practices to consistently deliver a better product</p>
         <Skills/>

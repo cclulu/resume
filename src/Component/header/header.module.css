@@ -1,0 +1,22 @@
+.content {
+    box-shadow: 0 4px 2px -2px gray;
+    background-color: #55efc4;
+    background-image: linear-gradient(182deg, #55efc4 0%, #000000 74%);
+}
+.headerThree {
+    height: 40px;
+    display: flex;
+    justify-content: flex-start;
+    margin: 0 0 0 20px;
+    color: white;
+    font-family: "bookman";
+}
+
+.headerFour {
+    height: 25px;
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 20px 0 0;
+    color: white;
+    font-family: "bookman";
+}
