@@ -1,22 +1,31 @@
 .content {
     box-shadow: 0 4px 2px -2px gray;
-    background-color: #55efc4;
-    background-image: linear-gradient(182deg, #55efc4 0%, #000000 74%);
+    background-color: white;
+    height: auto;
+    background-color: #000000;
+    background-image: linear-gradient(147deg, #000000 0%, #2c3e50 74%);
 }
 .headerThree {
-    height: 40px;
     display: flex;
     justify-content: flex-start;
     margin: 0 0 0 20px;
-    color: white;
-    font-family: "bookman";
+    color: rgba(255,255,255,0.6);
+    text-shadow: 2px 4px 2px rgba(255,255,255,0.7);
+    font-family: "impact";
 }
 
-.headerFour {
-    height: 25px;
+.linkdInIcon {
+    height: 45px;
+    width: 55px;
+}
+
+.githubIcon {
+    height: 45px;
+    width: 45px;
+}
+
+.orgIcons {
     display: flex;
     justify-content: flex-end;
-    margin: 0 20px 0 0;
-    color: white;
-    font-family: "bookman";
+    align-items: flex-start;
 }

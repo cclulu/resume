@@ -1,6 +1,7 @@
 import React from "react";
 import Skills from '../../Component/skills/skills.jsx';
 import Experience from '../../Component/exp/exp.jsx';
+import Cards from '../../Component/cards/cards.jsx';
 
 class Home extends React.Component {
   render() {
@@ -11,6 +12,7 @@ class Home extends React.Component {
       using best practices to consistently deliver a better product</p>
         <Skills/>
         <Experience/>
+        <Cards/>
       </div>
     )
   }
