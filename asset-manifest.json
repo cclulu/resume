@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.2f9c19ea.chunk.css",
+    "main.js": "/resume/static/js/main.5be40b04.chunk.js",
+    "main.js.map": "/resume/static/js/main.5be40b04.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.a54ac2ac.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.a54ac2ac.js.map",
+    "static/js/2.aa0925a1.chunk.js": "/resume/static/js/2.aa0925a1.chunk.js",
+    "static/js/2.aa0925a1.chunk.js.map": "/resume/static/js/2.aa0925a1.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "precache-manifest.681eda09c4c3b9b0ebc168bd1078f1cc.js": "/resume/precache-manifest.681eda09c4c3b9b0ebc168bd1078f1cc.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/css/main.2f9c19ea.chunk.css.map": "/resume/static/css/main.2f9c19ea.chunk.css.map",
+    "static/js/2.aa0925a1.chunk.js.LICENSE.txt": "/resume/static/js/2.aa0925a1.chunk.js.LICENSE.txt",
+    "static/media/cards.module.css": "/resume/static/media/java-logo.398fd484.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a54ac2ac.js",
+    "static/js/2.aa0925a1.chunk.js",
+    "static/css/main.2f9c19ea.chunk.css",
+    "static/js/main.5be40b04.chunk.js"
+  ]
+}
