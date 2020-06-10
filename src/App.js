@@ -13,7 +13,7 @@ import './App.css';
 class App extends React.Component {
   render(){
     return (
-      <div>
+      <div className="App">
         <Header/>
         <Switch>
           <Route exact path='/' render={(props) => <Home {...props} />}/>
