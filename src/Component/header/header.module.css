@@ -1,27 +1,43 @@
 .content {
-    box-shadow: 0 4px 2px -2px gray;
-    background-color: white;
-    height: auto;
-    background-color: #000000;
-    background-image: linear-gradient(147deg, #000000 0%, #2c3e50 74%);
+    /* box-shadow: 0 4px 2px -2px gray; */
+    background-color: rgba(0,0,0,.3);
+    /* height: auto; */
 }
-.headerThree {
+
+.profilePic {
+  height: 10em;
+  width: 10em;
+  background: url('../../media/images/Me_professional.jpg');
+  background-size: 9em 10em;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 50%;
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+  /* margin: .5em -3em -3em .5em; */
+}
+
+.myName {
     display: flex;
     justify-content: flex-start;
     margin: 0 0 0 20px;
-    color: rgba(255,255,255,0.6);
-    text-shadow: 2px 4px 2px rgba(255,255,255,0.7);
+    color: rgba(255,255,255,0.5);
+    /* color: rgba(0,0,0,0.5); */
+    /* color: rgba(255,255,255,0.6); */
+    /* text-shadow: 2px 4px 2px rgba(255,255,255,0.7); */
+    text-shadow: 2px 4px 2px rgba(255,255,255,0.5);
     font-family: "impact";
 }
 
 .linkdInIcon {
     height: 45px;
     width: 55px;
+    margin: 0 1em .5em 1em;
 }
 
 .githubIcon {
     height: 45px;
     width: 45px;
+    margin: 0 1em .5em 1em;
 }
 
 .orgIcons {
